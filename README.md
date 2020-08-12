@@ -2,8 +2,8 @@
 
 # 📋 Indíce 
 - [RocketSeat](#-RocketSeat)
-- [Next Level Week (NLW)](#-Next-Level-Week-(NLW))
-- [Proffy](#-Proffy)
+- [Next Level Week (NLW)](#-Next-Level-Week)
+- [ Proffy](#-Proffy)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Instrutores](#-Instrutores)
 
