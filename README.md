@@ -31,7 +31,7 @@ RocketSeat é não só uma plataforma de educação em tecnologia, mais também 
 
 [RocketSeat](https://rocketseat.com.br)
 
-<h2> <img src="./Apresentação/NLW2.svg" height="40px"> Next Level Week <a name="id02"></a> </h2>
+<h2> <img src="./apresentacao/NLW2.svg" height="40px"> Next Level Week <a name="id02"></a> </h2>
 NLW 🚀 é, secundo a própria RocktSeat, uma experiência online com muito conteúdo prático, desafios e hacks que ajuda o dev,  a avançar para o próximo nível.
 Além disso, é uma semana de conteúdo intensivo focado em acelerar a evolução e carreira. 
 
