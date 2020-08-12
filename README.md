@@ -104,7 +104,7 @@ O servidor precisa estar ativo para que as partes web e mobile funcionem correta
 
 Tela demonstrativa do expo
 
-<p  align="center"><img src="./apresentacoo/expo.png" align="center"></img></p>
+<p  align="center"><img src="./apresentacao/expo.png" align="center"></img></p>
 
 
 # :iphone: Meios de contato <a name="id10"></a>
