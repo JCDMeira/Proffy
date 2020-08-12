@@ -2,13 +2,13 @@
 
 # 📋 Indíce 
 - [RocketSeat](#-RocketSeat)
-- [Next Level Week (NLW)](##-Next-Level-Week-(NLW))
-- [Proffy](##-Proffy)
-- [Tecnologias utilizadas](##-Tecnologias-utilizadas)
-- [Instrutores](##-Instrutores)
+- [Next Level Week (NLW)](#-Next-Level-Week-(NLW))
+- [Proffy](#-Proffy)
+- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+- [Instrutores](#-Instrutores)
 
 
-# RocketSeat
+# 🚀 RocketSeat
 RocketSeat é não só uma plataforma de educação em tecnologia, mais também uma comunidade de programadores.
 
 [RocketSeat](https://rocketseat.com.br)
