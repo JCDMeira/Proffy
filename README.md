@@ -21,7 +21,10 @@
   - [Instrutores](#id03)
 - [Proffy](#id04)
   - [Tecnologias utilizadas](#id05)
-- [Meios de contato](#id06)
+- [Como usar esse projeto](#id06)
+  - [Pré-requisitos](#id07)
+  - [Procedimentos de instalação](#id08)
+- [Meios de contato](#id10)
 
 # 🚀 RocketSeat <a name="id01"></a>
 RocketSeat é não só uma plataforma de educação em tecnologia, mais também uma comunidade de programadores.
@@ -49,18 +52,18 @@ O Projeto dessa 2ª edição é o Proffy, que é uma plataforma de estudos onlin
 - [x] React Native - Aplicação mobile
 - [x] Knex com cliente SQLite3
 
-# 💻 Como usar o projeto
+# 💻 Como usar o projeto <a name="id06"></a>
 
 Este projeto está dividido em 3 partes distintas, sendo elas chamas de, mobile, web e server. O server interage com ambas as duas outras partes.
 
-## ☑️ Pré-requisitos
+## ☑️ Pré-requisitos <a name="id07"></a>
 
 - [x] Editor de código de sua preferência (recomendado VS code)
 - [x] Git
 - [x] Node JS
 - [x] Expo
 
-## 📝 Procedimentos de instalação
+## 📝 Procedimentos de instalação <a name="id08"></a>
 
 Clone este repositório usando o comando:
 ```bash
@@ -101,10 +104,10 @@ O servidor precisa estar ativo para que as partes web e mobile funcionem correta
 
 Tela demonstrativa do expo
 
-[expo]('./Apresentação/expo.png')
+![]('./Apresentação/expo.png')
 
 
-# :iphone: Meios de contato <a name="id06"></a>
+# :iphone: Meios de contato <a name="id10"></a>
 ## Jean Carlos De Meira :coffee:
 
 Perfil do linkedin - [Linkedin](https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
