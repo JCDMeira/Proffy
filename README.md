@@ -24,6 +24,7 @@
 - [Como usar esse projeto](#id06)
   - [Pré-requisitos](#id07)
   - [Procedimentos de instalação](#id08)
+- [Telas](#id9)
 - [Meios de contato](#id10)
 
 # 🚀 RocketSeat <a name="id01"></a>
@@ -106,6 +107,9 @@ Tela demonstrativa do expo
 
 <p  align="center"><img src="./apresentacao/expo.png" align="center"></img></p>
 
+# 💻 Telas <a name="id9"></a>
+
+<p  align="center"><img src="./apresentacao/web.gif" align="center"></img></p>
 
 # :iphone: Meios de contato <a name="id10"></a>
 ## Jean Carlos De Meira :coffee:
